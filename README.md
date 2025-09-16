@@ -4,15 +4,21 @@
 # linux常用命令
 
 激活wsl虚拟环境
-`wsl`
+`
+wsl
+`
 退出
-`exit`
+`exit
+`
 终止
-`wsl --shutdown`
+`wsl --shutdown
+`
 回到上级目录
-`cd ..`
+`cd ..
+`
 回到家
-`cd ~`
+`cd ~
+`
 
 
 # 常用快捷键
